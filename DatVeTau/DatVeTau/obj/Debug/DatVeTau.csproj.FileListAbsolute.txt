@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\bin\Debug\DatVeTau.exe.config
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\bin\Debug\DatVeTau.exe
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\bin\Debug\DatVeTau.pdb
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.Form1.resources
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.Properties.Resources.resources
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.exe
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.pdb
+C:\Users\Asus\Desktop\DatVeTau\DatVeTau\obj\Debug\DatVeTau.Form2.resources
